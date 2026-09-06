@@ -13,8 +13,7 @@
 - 🧮 [DSA Lab](https://github.com/annaldasmalathi-28/DSA-Lab) — C++ data structures & algorithms practice
 - 🌐 [My Portfolio](https://github.com/annaldasmalathi-28/my-porfolio) — Personal portfolio site built with HTML
 
-### 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annaldasmalathi-28)
+
 
 ### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/malathi-annaldas-aab1b63b2/)
