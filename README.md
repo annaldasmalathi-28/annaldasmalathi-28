@@ -78,7 +78,7 @@ Collection of C++ data structures and algorithm practice programs.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/malathi-annaldas-aab1b63b2/)])
+[![LinkedIn](https://www.linkedin.com/in/malathi-annaldas-aab1b63b2/)]
 
 ⭐ Thanks for visiting my profile!
 
